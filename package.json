@@ -1,0 +1,12 @@
+{
+	"name": "Gmail - Light",
+	"main": "https://mail.google.com",
+	"description": "A Light weight desktop gmail app",
+	"version": "0.1.0",
+	"window": {
+	"icon": "test.png",
+	"toolbar": false,
+	"width": 1240,
+	"height": 900
+	}
+}
