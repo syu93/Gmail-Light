@@ -3,6 +3,7 @@
 	"main": "https://mail.google.com",
 	"description": "A Light weight desktop gmail app",
 	"version": "0.1.0",
+	"startup": "plop",
 	"window": {
 	"icon": "test.png",
 	"toolbar": false,
